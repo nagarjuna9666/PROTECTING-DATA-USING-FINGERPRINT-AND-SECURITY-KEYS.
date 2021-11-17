@@ -1,8 +1,4 @@
-<%-- 
-    Document   : merchant
-    Created on : Sep 7, 2015, 11:44:28 AM
-    Author     : java2
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -13,7 +9,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="">
         <meta name="author" content="">
-        <title>Privacy-Preserving P2P Multimedia Distribution</title>
+        <title>Protecting Data</title>
         <!-- Bootstrap Core CSS -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <!-- Custom CSS -->
@@ -31,8 +27,7 @@
         <%
             }
         %>
-        <div class="brand">Improved Privacy-Preserving P2P Multimedia
-            Distribution <br />Based on Recombined Fingerprints</div>
+        <div class="brand">PROTECTING DATA USING  <br />FINGERPRINT AND SECURITY KEYS</div>
         <!-- Navigation -->
         <nav class="navbar navbar-default" role="navigation">
             <div class="container">
@@ -59,9 +54,7 @@
                         <li>
                             <a href="buyer.jsp">Buyer</a>
                         </li>
-                        <li>
-                            <a href="txmonitor.jsp">Tx Monitor</a>
-                        </li>
+                        
                         <li>
                             <a href="admin.jsp">Admin</a>
                         </li>
@@ -96,8 +89,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <p>Copyright &copy; 2015-2016
-                        </p>
+                        
                     </div>
                 </div>
             </div>
