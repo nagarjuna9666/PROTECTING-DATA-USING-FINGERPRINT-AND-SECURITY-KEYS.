@@ -1,8 +1,4 @@
-<%-- 
-    Document   : txmonitor
-    Created on : Sep 7, 2015, 11:45:00 AM
-    Author     : java2
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -13,7 +9,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="">
         <meta name="author" content="">
-        <title>Privacy-Preserving P2P Multimedia Distribution</title>
+        <title>Privacy-Protecting Data</title>
         <!-- Bootstrap Core CSS -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <!-- Custom CSS -->
