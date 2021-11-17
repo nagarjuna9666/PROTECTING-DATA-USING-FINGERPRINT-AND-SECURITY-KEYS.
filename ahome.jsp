@@ -9,7 +9,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="">
         <meta name="author" content="">
-        <title>Privacy-Protecting Data</title>
+        <title>Protecting Data</title>
         <!-- Bootstrap Core CSS -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <!-- Custom CSS -->
@@ -27,8 +27,7 @@
         <%
             }
         %>
-        <div class="brand">Improved Privacy-Preserving P2P Multimedia
-            Distribution <br />Based on Recombined Fingerprints</div>
+        <div class="brand">PROTECTING DATA USING  <br />FINGERPRINT AND SECURITY KEYS</div>
         <!-- Navigation -->
         <nav class="navbar navbar-default" role="navigation">
             <div class="container">
